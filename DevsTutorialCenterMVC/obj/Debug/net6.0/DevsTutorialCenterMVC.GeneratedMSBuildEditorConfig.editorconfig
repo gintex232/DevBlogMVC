@@ -9,251 +9,251 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DevsTutorialCenterMVC
 build_property.RootNamespace = DevsTutorialCenterMVC
-build_property.ProjectDir = C:\Users\USER\Desktop\DevBlog\DevBlogMVC\DevsTutorialCenterMVC\
+build_property.ProjectDir = C:\Users\USER\Desktop\DevBlog\DevBlog\DevBlogMVC\DevsTutorialCenterMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\USER\Desktop\DevBlog\DevBlogMVC\DevsTutorialCenterMVC
+build_property.MSBuildProjectDirectory = C:\Users\USER\Desktop\DevBlog\DevBlog\DevBlogMVC\DevsTutorialCenterMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/ConfirmEmail.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/ForgotPassword.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/Login.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/ResetPassword.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/SignUp.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/WithAccount.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Account/WithAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxXaXRoQWNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Admin/AccountDetails.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Admin/AccountDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWNjb3VudERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Admin/AuthorsUnderAdmin.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Admin/AuthorsUnderAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQXV0aG9yc1VuZGVyQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Admin/Index.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Articles/CreateArticle.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Articles/CreateArticle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZXNcQ3JlYXRlQXJ0aWNsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Articles/CreateArticleSuccessful.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Articles/CreateArticleSuccessful.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZXNcQ3JlYXRlQXJ0aWNsZVN1Y2Nlc3NmdWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Articles/GetSingleArticle.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Articles/GetSingleArticle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZXNcR2V0U2luZ2xlQXJ0aWNsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/DraftArticles.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/DraftArticles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERyYWZ0QXJ0aWNsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/Index.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/LibraryPage.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/LibraryPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXExpYnJhcnlQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/Settings.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/Settings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFNldHRpbmdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/StoryPage.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/StoryPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFN0b3J5UGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/UpdateArticle.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/UpdateArticle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFVwZGF0ZUFydGljbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/_SuccessConfirmationModalPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Dashboard/_SuccessConfirmationModalPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXF9TdWNjZXNzQ29uZmlybWF0aW9uTW9kYWxQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Editor/Index.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Editor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Editor/OpenArticle.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Editor/OpenArticle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yXE9wZW5BcnRpY2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/Index.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/OpenArticle.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/OpenArticle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcGVuQXJ0aWNsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/Privacy.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/SendDecadevInvite.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Home/SendDecadevInvite.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZW5kRGVjYWRldkludml0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Search/SearchResultPage.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Search/SearchResultPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXFNlYXJjaFJlc3VsdFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_AddCommentPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_AddCommentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkZENvbW1lbnRQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_AuthorListItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_AuthorListItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0F1dGhvckxpc3RJdGVtUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostContentPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostContentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0Q29udGVudFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostEditorItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostEditorItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0RWRpdG9ySXRlbVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0SXRlbVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostListItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostListItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0TGlzdEl0ZW1QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostMoreArticleItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostMoreArticleItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0TW9yZUFydGljbGVJdGVtUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostPopularItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostPopularItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0UG9wdWxhckl0ZW1QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostRecommendationItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostRecommendationItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0UmVjb21tZW5kYXRpb25JdGVtUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostTrendingItemPartial - Copy (2).cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostTrendingItemPartial - Copy (2).cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0VHJlbmRpbmdJdGVtUGFydGlhbCAtIENvcHkgKDIpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostTrendingItemPartial - Copy.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostTrendingItemPartial - Copy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0VHJlbmRpbmdJdGVtUGFydGlhbCAtIENvcHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostTrendingItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_BlogPostTrendingItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Jsb2dQb3N0VHJlbmRpbmdJdGVtUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_CommentFormPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_CommentFormPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRGb3JtUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_CommentItemPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_CommentItemPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRJdGVtUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_Navbar.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_PaginationPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_PaginationPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BhZ2luYXRpb25QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_PendingListArticlePartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_PendingListArticlePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BlbmRpbmdMaXN0QXJ0aWNsZVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_PublishedListArticlePartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_PublishedListArticlePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1B1Ymxpc2hlZExpc3RBcnRpY2xlUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_SearchPagePartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_SearchPagePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlYXJjaFBhZ2VQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_TagComponentPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_TagComponentPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RhZ0NvbXBvbmVudFBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_ViewArticlePartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Components/_ViewArticlePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1ZpZXdBcnRpY2xlUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Error.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_AuthorsUnderAdminNavPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_AuthorsUnderAdminNavPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRob3JzVW5kZXJBZG1pbk5hdlBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_BlogPostNavPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_BlogPostNavPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbG9nUG9zdE5hdlBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_LandingPageNavPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_LandingPageNavPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYW5kaW5nUGFnZU5hdlBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_NotificationDropdownPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_NotificationDropdownPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25Ecm9wZG93blBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_NotificationOptionsPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_NotificationOptionsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25PcHRpb25zUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_SamplePartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_SamplePartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TYW1wbGVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_StoryPagesNavPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_StoryPagesNavPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdG9yeVBhZ2VzTmF2UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_WriteArticleNavBarPartial.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_WriteArticleNavBarPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Xcml0ZUFydGljbGVOYXZCYXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/_ViewImports.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/_ViewStart.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/USER/Desktop/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/USER/Desktop/DevBlog/DevBlog/DevBlogMVC/DevsTutorialCenterMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k5rpsv8kwn
